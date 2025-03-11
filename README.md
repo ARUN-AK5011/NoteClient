@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/notes-app.git
+git clone https://github.com/ARUN-AK5011/NoteClient.git
 cd notes-app/client
 ```
 
